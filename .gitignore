@@ -2,6 +2,11 @@
 .kiro/
 luffa_docs/
 
+# Environment
+.env
+.env.*
+!.env.example
+
 # Python
 __pycache__/
 *.py[cod]
