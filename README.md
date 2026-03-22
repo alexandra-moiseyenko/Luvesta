@@ -1,4 +1,4 @@
-# Conviction Room
+# Luvesta
 
 **Conviction Room** is a modular, plugin-based architecture designed for adversarial financial research and automated AI agents. It provides a robust, swappable ecosystem where every architectural dimension of an AI agent can be plugged in, evaluated, and benchmarked independently.
 
